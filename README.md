@@ -1,5 +1,4 @@
-# *İlk Sayfamızı Oluşturduk.*
-~~~
-Hakkımda, en sevdiğim animeler, en sevdiğim bilgisayar oyunları ve yaptığım sporlar hakkında bilgi verdim.
-~~~
-! [Resim] (Sayfaresmi.png/)
+# *İlk HTML Sayfamızı Oluşturduk
+Hakkımdaki bazı bilgileri paylaştım.
+
+![Resim](Sayfaresmi.png)
